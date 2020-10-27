@@ -73,7 +73,7 @@ a:hover {
 .main {
   display: flex;
   justify-content: space-around;
-  align-items: flex-end;
+  align-items: baseline;
 }
 
 /* ****************** GuestForm************** */
